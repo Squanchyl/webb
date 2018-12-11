@@ -1,0 +1,5 @@
+aiohttp>=3.4.4
+aiohttp_session>=2.7.0
+cryptography>=2.0.3
+aioauth_client>=0.12.4
+asyncpg
